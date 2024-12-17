@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matteo Weber</h1>
-<h3 align="center">💻 Computer Science Student at IMS Hottingen 📍 Location: Zurich, Switzerland</h3>
+<h3 align="center"></h3>
 
-- 🔭 I’m currently working on [projects](/Kleinprojekte)
+- 🔭 I’m currently working on some smaller [projects](https://github.com/mattadosss/Kleinprojekte)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
